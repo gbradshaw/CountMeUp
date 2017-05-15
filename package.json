@@ -1,0 +1,16 @@
+{ 
+	"name": "CountMeUp",
+	"version": "0.0.0",
+	"description": "Voting Application",
+	"main": "app.js",
+	"author": {
+						"name": "Graham Bradshaw",
+						"email": "gdb40@icloud.com"
+	},
+	"dependencies": {
+		"express": "3.4.4",
+		"jade": "*",
+		"mysql": "2.13.0",
+		"stylus": "*"
+	}
+}
